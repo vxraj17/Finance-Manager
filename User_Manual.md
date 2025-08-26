@@ -6,7 +6,7 @@ Finance Manager is a Python-based personal finance application that helps users 
 
 
 # 2️⃣ Installation :
-Ensure Python 3.10+ is installed.
+Ensure Python 3.10+ is installed.<br>
  -Install dependencies:<br>
     -pip install -r requirements.txt<br>
 -Run the application:<br>
@@ -15,12 +15,12 @@ Ensure Python 3.10+ is installed.
 
 
 # 3️⃣ User Registration & Login
--On startup, choose Register to create a new account.
--Provide a username and password (stored securely with hashing).
--Next time, choose Login with the same credentials.
+-On startup, choose Register to create a new account.<br>
+-Provide a username and password (stored securely with hashing).<br>
+-Next time, choose Login with the same credentials.<br>
 
-📷 Example:
-✅ Registration successful!
+📷 Example:<br>
+✅ Registration successful!<br>
 
 
 
@@ -30,61 +30,62 @@ Ensure Python 3.10+ is installed.
 <br>-Edit or delete transactions if required.
 <br>-View all transactions in a structured list.
 
-📷 Example:
-Food → ₹200
-Travel → ₹500
+📷 Example:<br>
+Food → ₹200<br>
+Travel → ₹500<br>
 
 
 
 # 5️⃣ Budget Management
--Set a monthly budget for each category.
--Alerts:
-    -⚠ Close to limit (≥90% spent)
-    -⚠ Exceeded (spent beyond budget)
+Set a monthly budget for each category.<br>
+-Alerts:<br>
+    -⚠ Close to limit (≥90% spent)<br>
+    -⚠ Exceeded (spent beyond budget)<br>
 
-📷 Example:
-Food → Budget: ₹1000 | Spent: ₹950 | Used: 95% | ⚠ Close to limit
+📷 Example:<br>
+Food → Budget: ₹1000 | Spent: ₹950 | Used: 95% | ⚠ Close to limit<br>
 
 
 
 # 6️⃣ Reports
--Generate monthly or yearly reports.
--View total income, expenses, and category-wise breakdown.
--Helps track financial performance.
+-Generate monthly or yearly reports.<br>
+-View total income, expenses, and category-wise breakdown.<br>
+-Helps track financial performance.<br>
 
-📷 Example:
-=== Monthly Report (2025-08) ===
-Income: ₹5000
-Expenses: ₹4200
-Savings: ₹800
+📷 Example:<br>
+=== Monthly Report (2025-08) ===<br>
+Income: ₹5000<br>
+Expenses: ₹4200<br>
+Savings: ₹800<br>
 
 
 
 # 7️⃣ Backup & Restore
--Use Backup option to save your database safely.
+-Use Backup option to save your database safely.<br>
 -Use Restore option to load data from a backup if needed.
-
-📷 Example:
-✅ Backup created: backup_2025-08-25.db
-
-
-
-# 8️⃣ Testing
-Run the built-in test suite:
- -python -m unittest discover tests
-All modules (auth, budgets, transactions, reports, backups) are covered.
-
-📷 Example:
-Ran 14 tests in 5.1s
-OK
+<br>
+📷 Example:<br>
+✅ Backup created: backup_2025-08-25.db<br>
 
 
 
-# 9️⃣ Exit
--Use the Exit option to close the program safely.
+# 8️⃣ Testing<br>
+Run the built-in test suite:<br>
+ -python -m unittest discover tests<br>
+All modules (auth, budgets, transactions, reports, backups) are covered.<br>
 
-📷 Example:
-Thank you for using Finance Manager. Goodbye!
+📷 Example:<br>
+Ran 14 tests in 5.1s<br>
+OK<br>
+
+
+
+# 9️⃣ Exit<br>
+-Use the Exit option to close the program safely.<br>
+
+📷 Example:<br>
+Thank you for using Finance Manager. Goodbye!<br>
+
 
 
 
