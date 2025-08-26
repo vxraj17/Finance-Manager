@@ -1,12 +1,14 @@
 <img width="988" height="393" alt="image" src="https://github.com/user-attachments/assets/b615b4be-2863-4d15-9bf4-7aa12bddfa1d" />📘 Finance Manager – User Manual
 
-# 1️⃣ Introduction : Finance Manager is a Python-based personal finance application that helps users manage income, expenses, budgets, and reports. It supports user authentication with bcrypt for secure login, budget alerts, and database backup & restore. This manual guides you step by step in using the application.
+# 1️⃣ Introduction :
+Finance Manager is a Python-based personal finance application that helps users manage income, expenses, budgets, and reports. It supports user authentication with bcrypt for secure login, budget alerts, and database backup & restore. This manual guides you step by step in using the application.
 
 
 
-# 2️⃣ Installation : Ensure Python 3.10+ is installed.<br>
+# 2️⃣ Installation :
+Ensure Python 3.10+ is installed.<br>
  -Install dependencies:<br>
-    # -pip install -r requirements.txt<br>
+    -pip install -r requirements.txt<br>
 -Run the application:<br>
     -python main.py<br>
 
@@ -83,5 +85,6 @@ OK
 
 📷 Example:
 Thank you for using Finance Manager. Goodbye!
+
 
 
