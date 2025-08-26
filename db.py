@@ -3,7 +3,7 @@ import os
 import shutil
 from datetime import datetime
 
-DB_PATH = os.path.join("data", "finance2.db")
+DB_PATH = os.path.join("data", "finance.db")
 
 # Function to get a database connection
 def get_connection():
@@ -100,3 +100,4 @@ if __name__ == "__main__":
     os.makedirs("data", exist_ok=True)
     init_db()
     print("✅ Database initialized successfully.")
+
