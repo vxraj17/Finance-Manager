@@ -5,8 +5,8 @@
 
 
 2️⃣ Installation : Ensure Python 3.10+ is installed.
--Install dependencies:
-    -pip install -r requirements.txt
+# -Install dependencies:
+    # -pip install -r requirements.txt
 -Run the application:
     -python main.py
 
@@ -83,3 +83,4 @@ OK
 
 📷 Example:
 Thank you for using Finance Manager. Goodbye!
+
