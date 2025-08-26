@@ -1,32 +1,32 @@
-📘 Finance Manager – User Manual
+<img width="988" height="393" alt="image" src="https://github.com/user-attachments/assets/b615b4be-2863-4d15-9bf4-7aa12bddfa1d" />📘 Finance Manager – User Manual
 
-1️⃣ Introduction : Finance Manager is a Python-based personal finance application that helps users manage income, expenses, budgets, and reports. It supports user authentication with bcrypt for secure login, budget alerts, and database backup & restore. This manual guides you step by step in using the application.
-
-
-
-2️⃣ Installation : Ensure Python 3.10+ is installed.
-# -Install dependencies:
-    # -pip install -r requirements.txt
--Run the application:
-    -python main.py
+# 1️⃣ Introduction : Finance Manager is a Python-based personal finance application that helps users manage income, expenses, budgets, and reports. It supports user authentication with bcrypt for secure login, budget alerts, and database backup & restore. This manual guides you step by step in using the application.
 
 
 
-3️⃣ User Registration & Login
--On startup, choose Register to create a new account.
--Provide a username and password (stored securely with hashing).
--Next time, choose Login with the same credentials.
+# 2️⃣ Installation : Ensure Python 3.10+ is installed.<br>
+ -Install dependencies:<br>
+    # -pip install -r requirements.txt<br>
+-Run the application:<br>
+    -python main.py<br>
 
-📷 Example:
+
+
+#3️⃣ User Registration & Login
+<br>-On startup, choose Register to create a new account.
+<br>-Provide a username and password (stored securely with hashing).
+<br>-Next time, choose Login with the same credentials.
+
+<br>📷 Example:
 ✅ Registration successful!
 
 
 
-4️⃣ Transactions
--Add income or expenses.
--Provide category (Food, Travel, etc.), amount, and description.
--Edit or delete transactions if required.
--View all transactions in a structured list.
+#4️⃣ Transactions
+<br>-Add income or expenses.
+<br>-Provide category (Food, Travel, etc.), amount, and description.
+<br>-Edit or delete transactions if required.
+<br>-View all transactions in a structured list.
 
 📷 Example:
 Food → ₹200
@@ -83,4 +83,5 @@ OK
 
 📷 Example:
 Thank you for using Finance Manager. Goodbye!
+
 
